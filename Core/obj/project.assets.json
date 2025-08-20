@@ -407,11 +407,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\crist\\OneDrive\\Documents\\Prueba tecnica PWC\\Challenge\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\crist\\OneDrive\\Documents\\Prueba tecnica PWC\\carpeta del proyecto\\prueba\\challengePWC\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\crist\\OneDrive\\Documents\\Prueba tecnica PWC\\Challenge\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\crist\\OneDrive\\Documents\\Prueba tecnica PWC\\carpeta del proyecto\\prueba\\challengePWC\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\crist\\OneDrive\\Documents\\Prueba tecnica PWC\\Challenge\\Core\\obj\\",
+      "outputPath": "C:\\Users\\crist\\OneDrive\\Documents\\Prueba tecnica PWC\\carpeta del proyecto\\prueba\\challengePWC\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

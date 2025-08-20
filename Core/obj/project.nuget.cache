@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "becCvg9xFC8=",
+  "dgSpecHash": "Pq5g60G4VcI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\crist\\OneDrive\\Documents\\Prueba tecnica PWC\\Challenge\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\crist\\OneDrive\\Documents\\Prueba tecnica PWC\\carpeta del proyecto\\prueba\\challengePWC\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\crist\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\crist\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",

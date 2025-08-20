@@ -2439,11 +2439,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\crist\\OneDrive\\Documents\\Prueba tecnica PWC\\Challenge\\Infra\\Infra.csproj",
+      "projectUniqueName": "C:\\Users\\crist\\OneDrive\\Documents\\Prueba tecnica PWC\\carpeta del proyecto\\prueba\\challengePWC\\Infra\\Infra.csproj",
       "projectName": "Infra",
-      "projectPath": "C:\\Users\\crist\\OneDrive\\Documents\\Prueba tecnica PWC\\Challenge\\Infra\\Infra.csproj",
+      "projectPath": "C:\\Users\\crist\\OneDrive\\Documents\\Prueba tecnica PWC\\carpeta del proyecto\\prueba\\challengePWC\\Infra\\Infra.csproj",
       "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\crist\\OneDrive\\Documents\\Prueba tecnica PWC\\Challenge\\Infra\\obj\\",
+      "outputPath": "C:\\Users\\crist\\OneDrive\\Documents\\Prueba tecnica PWC\\carpeta del proyecto\\prueba\\challengePWC\\Infra\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2464,8 +2464,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\crist\\OneDrive\\Documents\\Prueba tecnica PWC\\Challenge\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\crist\\OneDrive\\Documents\\Prueba tecnica PWC\\Challenge\\Core\\Core.csproj"
+            "C:\\Users\\crist\\OneDrive\\Documents\\Prueba tecnica PWC\\carpeta del proyecto\\prueba\\challengePWC\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\crist\\OneDrive\\Documents\\Prueba tecnica PWC\\carpeta del proyecto\\prueba\\challengePWC\\Core\\Core.csproj"
             }
           }
         }
